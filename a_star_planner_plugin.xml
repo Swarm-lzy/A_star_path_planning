@@ -1,0 +1,7 @@
+<library path="lib/liba_star_global_planner">
+  <class name="a_star_global_planner/AstarGlobalPlannerRos" type="astar_global_planner::AstarGlobalPlannerRos" base_class_type="nav_core::BaseGlobalPlanner">
+    <description>
+      A simple astar global planner plugin
+    </description>
+  </class>
+</library>
