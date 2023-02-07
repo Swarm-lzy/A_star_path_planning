@@ -6,4 +6,4 @@ Modifty:
 1. Smooth the path
 2. Plan in unknown environment
 3. Optimize the code 
-4. Consider the dynamic and kinematic
+4. Consider the dynamic and kinematic (Hybrid Astar)
